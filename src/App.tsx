@@ -7,7 +7,7 @@ function App() {
         <div className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="flex justify-between items-center h-16">
             <div className="flex items-center space-x-3">
-              <img src="/vite.svg" alt="SPS Solar Logo" className="h-10 w-10" />
+              <img src="/sps_solar/vite.svg" alt="SPS Solar Logo" className="h-10 w-10" />
               <span className="text-xl font-bold text-gray-800">SPS Solar</span>
             </div>
             <div className="hidden md:flex space-x-8">
@@ -23,7 +23,7 @@ function App() {
       <header className="relative py-20 px-4 text-center text-white">
         <div className="max-w-4xl mx-auto">
           <div className="mb-8">
-            <img src="/vite.svg" alt="SPS Solar System Logo" className="mx-auto mb-6 h-24 w-24 drop-shadow-lg" />
+            <img src="/sps_solar/vite.svg" alt="SPS Solar System Logo" className="mx-auto mb-6 h-24 w-24 drop-shadow-lg" />
           </div>
           <h1 className="text-4xl md:text-6xl font-bold mb-4 drop-shadow-lg">
             SPS SOLAR SYSTEM P/L
@@ -142,7 +142,7 @@ function App() {
       <footer className="bg-gray-900 text-gray-300 py-8 px-4">
         <div className="max-w-6xl mx-auto text-center">
           <div className="flex items-center justify-center space-x-3 mb-4">
-            <img src="/vite.svg" alt="SPS Solar Logo" className="h-8 w-8" />
+            <img src="/sps_solar/vite.svg" alt="SPS Solar Logo" className="h-8 w-8" />
             <span className="text-lg font-semibold">SPS Solar System P/L</span>
           </div>
           <p className="text-sm">
